@@ -1,1 +1,2 @@
 # ConceptsPOO
+Inciando proyecto C#
